@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @pourjanali
-- 👀 I’m interested in Computer Networks and Security
-- 🌱 I’m currently learning MikroTik
+- 👋 Hi, I’m Behnam Pourjanali
 
 <!---
 pourjanali/pourjanali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
