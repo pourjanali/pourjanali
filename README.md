@@ -20,6 +20,8 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-FFCC33?style=flat&logo=mikrotik&logoColor=black" />
   <img alt="Networking" src="https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white" />
+  <img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white" />
   <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
