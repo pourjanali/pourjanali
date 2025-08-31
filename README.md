@@ -23,10 +23,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img alt="Azure SQL" src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img alt="ETL / SSIS" src="https://img.shields.io/badge/ETL%20%2F%20SSIS-5C2D91?style=flat&logo=dotnet&logoColor=white" />
   <img alt="Reporting / SSRS" src="https://img.shields.io/badge/Reporting%20%2F%20SSRS-5C2D91?style=flat&logo=powerbi&logoColor=white" />
   <img alt="Query Optimization" src="https://img.shields.io/badge/Query%20Optimization-0A0A0A?style=flat&logo=sqlite&logoColor=white" />
-  <img alt="Data Modeling" src="https://img.shields.io/badge/Data%20Modeling-0A0A0A?style=flat&logo=databricks&logoColor=white" />
 </p>
 
 #### Networking
@@ -46,12 +44,9 @@
 #### Network Security & Tools
 <p align="center">
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" />
-  <img alt="IDS/IPS" src="https://img.shields.io/badge/IDS%20%2F%20IPS-0A0A0A?style=flat&logo=securityscorecard&logoColor=white" />
   <img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability%20Assessment-0A0A0A?style=flat&logo=cve&logoColor=white" />
   <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-0A0A0A?style=flat&logo=kalilinux&logoColor=white" />
   <img alt="Firewall Hardening" src="https://img.shields.io/badge/Firewall%20Hardening-0A0A0A?style=flat&logo=fortinet&logoColor=white" />
-  <img alt="SIEM/Logging" src="https://img.shields.io/badge/SIEM%20%2F%20Logging-0A0A0A?style=flat&logo=elastic&logoColor=white" />
   <img alt="Threat Analysis" src="https://img.shields.io/badge/Threat%20Analysis-0A0A0A?style=flat&logo=virustotal&logoColor=white" />
 </p>
 
