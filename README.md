@@ -15,20 +15,19 @@
 
 ### 🔧 Tech Stack
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=white&labelColor=30363d" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-0D1117?style=flat&logo=csharp&logoColor=white&labelColor=30363d" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-0D1117?style=flat&logo=dotnet&logoColor=white&labelColor=30363d" />
-  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-0D1117?style=flat&logo=mikrotik&logoColor=white&labelColor=30363d" />
-  <img alt="Networking" src="https://img.shields.io/badge/Networking-0D1117?style=flat&logo=cisco&logoColor=white&labelColor=30363d" />
-  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0D1117?style=flat&logo=microsoft&logoColor=white&labelColor=30363d" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-FFCC33?style=flat&logo=mikrotik&logoColor=black" />
+  <img alt="Networking" src="https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 Activity
-<!-- Keep the small Views badge on its own line so it doesn't misalign with the taller streak card -->
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pourjanali&style=flat-square&color=30363d&label=Views" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pourjanali&style=flat-square&color=lightgray&label=Views" />
 </p>
 
 <p align="center">
@@ -43,6 +42,6 @@
 ### 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/behnam-pourjanali/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
