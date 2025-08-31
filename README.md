@@ -27,8 +27,8 @@
 
 ### 📊 Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=pourjanali&style=flat&color=gray)
-![GitHub Streak](https://streak-stats.demolab.com?user=pourjanali&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF00&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=pourjanali&style=flat-square&color=lightgray&label=Views)
+![GitHub Streak](https://streak-stats.demolab.com?user=pourjanali&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)
 
 ---
 
