@@ -26,12 +26,18 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pourjanali&show_icons=true&theme=dark&hide_title=true&rank_icon=github" alt="stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=pourjanali&theme=dark" alt="streak" />
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjanali&layout=compact&theme=dark&langs_count=8" alt="top langs" />
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pourjanali&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&line_height=20&hide_border=true&theme=transparent"
+    alt="GitHub stats for pourjanali"
+    height="110"
+/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjanali&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=transparent"
+    alt="Top languages for pourjanali"
+    height="110"
+/>
 </p>
 
 ---
