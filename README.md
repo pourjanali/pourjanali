@@ -25,20 +25,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Activity
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pourjanali&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&line_height=20&hide_border=true&theme=transparent"
-    alt="GitHub stats for pourjanali"
-    height="110"
-/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjanali&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=transparent"
-    alt="Top languages for pourjanali"
-    height="110"
-/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pourjanali&style=flat&color=gray)
+![GitHub Streak](https://streak-stats.demolab.com?user=pourjanali&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF00&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000)
 
 ---
 
