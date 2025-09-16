@@ -19,11 +19,9 @@
 <p align="center">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
   <img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img alt="Azure SQL" src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img alt="Reporting / SSRS" src="https://img.shields.io/badge/Reporting%20%2F%20SSRS-5C2D91?style=flat&logo=powerbi&logoColor=white" />
   <img alt="Query Optimization" src="https://img.shields.io/badge/Query%20Optimization-0A0A0A?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
@@ -31,8 +29,6 @@
 <p align="center">
   <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-FFCC33?style=flat&logo=mikrotik&logoColor=black" />
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
-  <img alt="pfSense" src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white" />
-  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" />
   <img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white" />
   <img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
