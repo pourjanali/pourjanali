@@ -15,7 +15,6 @@
 
 ### 🔧 Tech Stack
 
-#### Databases & SQL
 <p align="center">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
   <img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
@@ -23,10 +22,6 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img alt="Azure SQL" src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img alt="Query Optimization" src="https://img.shields.io/badge/Query%20Optimization-0A0A0A?style=flat&logo=sqlite&logoColor=white" />
-</p>
-
-#### Networking
-<p align="center">
   <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-FFCC33?style=flat&logo=mikrotik&logoColor=black" />
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white" />
@@ -35,19 +30,11 @@
   <img alt="DNS/DHCP" src="https://img.shields.io/badge/DNS%20%2F%20DHCP-0A0A0A?style=flat&logo=cloudflare&logoColor=white" />
   <img alt="TCP/IP" src="https://img.shields.io/badge/TCP%2FIP-0A0A0A?style=flat&logo=gnometerminal&logoColor=white" />
   <img alt="BGP / OSPF" src="https://img.shields.io/badge/BGP%20%2F%20OSPF-0A0A0A?style=flat&logo=router&logoColor=white" />
-</p>
-
-#### Network Security & Tools
-<p align="center">
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
   <img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability%20Assessment-0A0A0A?style=flat&logo=cve&logoColor=white" />
   <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-0A0A0A?style=flat&logo=kalilinux&logoColor=white" />
   <img alt="Firewall Hardening" src="https://img.shields.io/badge/Firewall%20Hardening-0A0A0A?style=flat&logo=fortinet&logoColor=white" />
   <img alt="Threat Analysis" src="https://img.shields.io/badge/Threat%20Analysis-0A0A0A?style=flat&logo=virustotal&logoColor=white" />
-</p>
-
-#### Languages, OS & Automation
-<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
