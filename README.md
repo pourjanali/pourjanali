@@ -65,8 +65,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pourjanali&style=flat-square&color=lightgray&label=Views" />
 </p>
