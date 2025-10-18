@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Behnam Pourjanali</h1>
 <h3 align="center">🔬 Researcher in Networking & Security · 💻 Software Developer · 🛠️ Debugging Enthusiast</h3>
 
+<p align="center">
+Building secure, reliable, and data-driven systems — connecting networks, code, and performance.
+</p>
+
 ---
 
 ### 🌌 About Me
