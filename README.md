@@ -48,16 +48,3 @@ Building secure, reliable, and data-driven systems — connecting networks, code
 </p>
 
 ---
-
-### 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/behnam-pourjanali/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pourjanali&style=flat-square&color=lightgray&label=Views" />
-</p>
-
----
