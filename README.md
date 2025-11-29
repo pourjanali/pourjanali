@@ -48,3 +48,6 @@ Building secure, reliable, and data-driven systems — connecting networks, code
 </p>
 
 ---
+## 📊 Github Stats  
+
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
