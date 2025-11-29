@@ -50,4 +50,4 @@ Building secure, reliable, and data-driven systems — connecting networks, code
 ---
 ## 📊 Github Stats  
 
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
